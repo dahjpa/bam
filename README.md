@@ -2,7 +2,7 @@
 <html>
     <head>
             <link rel="stylesheet" href="style.css"/>
-     </head>
+   </head>
     <body>
         <header>
             <a href="#price">Прайс-лист</a> <a href="#reviews">Отзывы</a> <a href="#photos">Фотографии</a>
