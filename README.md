@@ -1,7 +1,6 @@
 # bam
 <html>
     <head>
-            <title> бан </title>
             <link rel="stylesheet" href="style.css"/>
             </head>
     <body>
